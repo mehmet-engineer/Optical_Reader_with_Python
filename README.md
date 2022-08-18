@@ -1,6 +1,6 @@
-# Optik_Okuyucu_Python
-Optik Okuyucu Görüntü İşleme Yazılımı
+# Optical Reader with Python
+Optical Reader Implementation with OpenCV Python
 
-OpenCV görüntü işleme araçları kullanarak Python dilinde yazdığım Dijital Optik Okuyucu projem, kameradan okutulan resimleri cevap anahtarıyla eşleştirerek sınav analizi yapabilmekte ve sonuçları raporlayabilmektedir.
+My Digital Optical Reader project, which I wrote in Python using OpenCV image processing tools, can perform exam analysis and report the results by matching the pictures read from the camera with the answer key.
 
 ![resim](https://github.com/mehmet-engineer/Optik_Okuyucu_Python/blob/main/Optik_Okuyucu.png)
